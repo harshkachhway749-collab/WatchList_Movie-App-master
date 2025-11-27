@@ -1,6 +1,7 @@
 📽️ WatchList Movie App
-[![Watch the demo video
-Click on the image->](https://img.youtube.com/vi/4nG0pPmWwLs/0.jpg)](https://www.youtube.com/watch?v=4nG0pPmWwLs)
+[![Watch the demo videon Click on the image->](https://img.youtube.com/vi/4nG0pPmWwLs/0.jpg)](https://www.youtube.com/watch?v=4nG0pPmWwLs)
+
+
 WatchList Movie App is a modern Android application that allows users to explore movies, view detailed information, and save their favorites for later viewing.
 It is built using Kotlin, follows MVVM architecture, and integrates the TMDB API to fetch real-time movie data.
 
