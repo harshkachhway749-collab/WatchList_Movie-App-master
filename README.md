@@ -26,7 +26,11 @@ It is built using Kotlin, follows MVVM architecture, and integrates the TMDB API
 9.Smooth & Modern UI
 
 10.Built with Jetpack components and clean UI design for a smooth and intuitive user experience.
-<!-- Uploading "Screenshot 2025-11-27 at 4.47.22 PM.png"... --> <!-- Uploading "Screenshot 2025-11-27 at 4.48.11 PM.png"... --> <!-- Uploading "Screenshot 2025-11-27 at 4.48.33 PM.png"... -->
+<img width="325" height="709" alt="Image" src="https://github.com/user-attachments/assets/21af030a-dd9c-4c11-97e0-89eccb837235" />  <img width="315" height="700" alt="Image" src="https://github.com/user-attachments/assets/7719b6c4-9063-49ec-bc48-d71e0db4e62d" />  <img width="322" height="700" alt="Image" src="https://github.com/user-attachments/assets/fccfa102-dced-4392-8115-2cc51e63c074" />
+
+
+
+
 
 
 
